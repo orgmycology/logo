@@ -1,4 +1,4 @@
-`om_spore_gray.svg`
+`om_spore_gray.svg`  
 ![](https://raw.githubusercontent.com/orgmycology/logo/main/om_spore_gray.svg)
 
 `horizontal_logo.png`
